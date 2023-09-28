@@ -17,10 +17,11 @@
 
 }
 .media-icons{
+	display:flex;
 	background-color:black;;
 	width:40%;
 	height:50px;
-	display:flex;
+	
 }
 img{
 	height:100%;
